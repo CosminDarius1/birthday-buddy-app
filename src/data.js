@@ -1,32 +1,38 @@
+
+import cosminImage from '/src/assets/mosmi.png'
+import claudelImage from '/src/assets/claudel.png'
+import varuImage from '/src/assets/varu.jpg'
+import dinutaImage from '/src/assets/dinuta.png'
+import motherImage from '/src/assets/mother.png'
 export default [
   {
     id: 1,
-    name: 'Bertie Yates',
-    age: 29,
-    image: 'https://www.course-api.com/images/people/person-1.jpeg',
+    name: 'Cosmin Sas',
+    age: 28,
+    image: cosminImage
   },
   {
     id: 2,
-    name: 'Hester Hogan',
-    age: 32,
-    image: 'https://www.course-api.com/images/people/person-2.jpeg',
+    name: 'Claudiu Sas',
+    age: 19,
+    image: claudelImage
   },
   {
     id: 3,
-    name: 'Larry Little',
-    age: 36,
-    image: 'https://www.course-api.com/images/people/person-3.jpeg',
+    name: 'Emi Fulop',
+    age: 31,
+    image: varuImage,
   },
   {
     id: 4,
-    name: 'Sean Walsh',
-    age: 34,
-    image: 'https://www.course-api.com/images/people/person-4.jpeg',
+    name: 'Dina Pop',
+    age: 48,
+    image: dinutaImage,
   },
   {
     id: 5,
-    name: 'Lola Gardner',
-    age: 29,
-    image: 'https://www.course-api.com/images/people/person-5.jpeg',
+    name: 'Felicia Sas',
+    age: 50,
+    image: motherImage,
   },
 ];
