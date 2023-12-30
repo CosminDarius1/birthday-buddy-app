@@ -136,7 +136,7 @@ ul {
 .btn {
   cursor: pointer;
   color: var(--white);
-  background: var(--primary-500);
+  background: var(--green-dark);
   border: transparent;
   border-radius: var(--borderRadius);
   letter-spacing: var(--letterSpacing);
@@ -256,7 +256,7 @@ ul {
 /* ============= PROJECT CSS =============== */
 
 body {
-  background: var(--primary-100);
+  background: var(--grey-700);
 }
 .person img {
   width: 75px;
