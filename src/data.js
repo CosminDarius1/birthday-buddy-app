@@ -19,7 +19,7 @@ export default [
   },
   {
     id: 3,
-    name: 'Emi Fulop',
+    name: 'Emy Fulop',
     age: 31,
     image: varuImage,
   },
