@@ -6,7 +6,7 @@ const Person = ({image,name,age}) => {
         <article className="person">
         <img src={image} alt={name} className='img'/>
             <div>
-                <p>{age} years</p>
+                <p> years</p>
             </div>
         </article> )
         }
